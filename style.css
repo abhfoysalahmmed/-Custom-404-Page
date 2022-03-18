@@ -1,0 +1,22 @@
+.custom404 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+.custom404 img {
+  width: 70%;
+}
+
+.custom404 .custom404-content {
+  background: #222;
+  padding: 8px 48px;
+  color: #eee;
+  border-radius: 10px;
+}
+
+.custom404 .custom404-content a {
+  color: #eee;
+}
